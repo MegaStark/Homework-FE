@@ -1,0 +1,60 @@
+p{
+    color: aqua;
+}
+
+/*1 и 3 цвет оранжевыйъ*/
+
+/*
+    selectors
+    1. tag name{}
+    2. class name{}
+    3.id
+*/
+.color_orange{
+    color: orange;
+}
+.bold{
+    font-weight: bold;
+}
+#p4{
+    /* Textfarbe */
+    color: red;
+    /* text dicke */
+    font-weight: bolder;
+}
+h1{
+    /* schriftgröße */
+   font-size: 40px;
+   /* text ausmitteln */
+   text-align: center;
+}
+
+.test_p{
+    color: black;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: underline;
+/* начертание текста курсив */
+    font-style: italic;
+    /* выравнивание текста по ширине */
+    text-align: justify;
+    /* отступ между строк */
+    line-height: 50px;
+    /* отступ первой строки */
+    text-indent: 40px;
+    /* фоновый цвет */
+    background-color: lightcoral;
+    /* ширина */
+    width: 800px;
+    /* высота */
+    height: 1000px;
+}
+.red{
+    color: red;
+}
+
+    .main{
+        width: 500px;
+    }
+
+
